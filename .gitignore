@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+results/*.json
+results/*.npz
+results/*.log
+figs/*.png
+paper_figures/figs/*
+!.gitkeep
